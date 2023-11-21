@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+   
+    height: 10%;
+    background-color: darkcyan;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+h4{
+   text-align: center;
+   justify-content: space-between;
+ display: flex;
+ margin-left: 500px;
+ margin-right: 500px;
+ font-size: 20px;
+}
+h1{
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.home{
+    margin-bottom: 30px;
+    font-size: 20px;
+}

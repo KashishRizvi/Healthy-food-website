@@ -1,0 +1,23 @@
+footer{
+    margin-top: 0%;
+    height: 300px;
+    width: 100%;
+    background-color: darkcyan;
+}
+.main{
+    display: flex;
+}
+.mini{
+    width: 25%;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-size: 18px;
+
+}
+h3{
+    font-size: 25px;
+}
+h5{
+    justify-content: center;
+    align-items: center;
+}

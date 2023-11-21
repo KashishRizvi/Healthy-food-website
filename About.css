@@ -1,0 +1,28 @@
+.about{
+    width: 100%;
+    height: 600px;
+    background-image: url(download\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    margin-left: 600px;
+    padding-top: 100px;
+}
+p{
+    color: white;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-between ;
+}
+.thank{
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+    color: white;
+    border-radius: 30px ;
+    margin-left: 700px;
+    font-size: 20px;
+}
